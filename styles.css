@@ -1,0 +1,41 @@
+.body-class {
+	background-color: navy;
+}
+
+.header-class {
+	background-color: black;
+	color: blue;
+}
+.nav-class {
+	background-color: teal;
+}
+.nav-link-class {
+	color: white;
+}
+.title-class {
+	color: blue;
+}
+.section-title-class {
+	color: #CEE5F2;
+}
+.text-class {
+	color: lime;
+}
+.image-class {
+	border: 10px solid white;
+}
+.form-class {
+	color: gold;
+}
+.button-class {
+	color: #B87333;
+}
+.footer-class {
+	background-color: #A6979C;
+	color: #2B4570;
+}
+.faq-question-class {
+	color: #FFFDD0;
+}
+.cite-class {
+	color: #F1ABB9;
